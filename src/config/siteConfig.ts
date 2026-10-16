@@ -48,7 +48,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "绘星，绘世，绘里酱！",
 
 	// 站点 URL
-	site_url: "https://eri.107211.xyz",
+	site_url: "https://blog.107211.xyz",
 
 	// 站点描述
 	description:
