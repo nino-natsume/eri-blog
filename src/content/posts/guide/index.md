@@ -5,11 +5,14 @@ description: Hugo 建站全流程
 pinned: true
 tags: [Markdown, Hugo]
 category: 教程
+image: https://img.107211.xyz/file/img/bfLIpviS.webp
 ---
 
 # 再前言
 
 本 Blog 虽已转入 Astro ，但本篇内的教程仍然适用于当前版本，继续使用即可，以下的 `本篇` 指原 Hugo-Reimu 主题 Blog
+
+下方短代码因架构不同，故仅显示短代码写法，实际效果请自行测试
 
 ## 前言
 
@@ -1072,9 +1075,8 @@ Ciallo～(∠・ω< )⌒★
 ```
 
 ## 4.博客部署
-**下方步骤的每一点都要做对，否则都会部署失败！！**
 
-此处需将example更改为你自己的username，不要傻乎乎地把我给的example粘贴上去，如某人的Github主页是 `https://github.com/ciallo` ，此处的example应为ciallo，TA的仓库名应为 ciallo.github.io，后面有关仓库名的部分也是如此
+此处需将example更改为你自己的username， **不要傻乎乎地把我给的example粘贴上去**，如某人的Github主页是 `https://github.com/ciallo` ，此处的example应为ciallo，TA的仓库名应为 `ciallo.github.io`，后面有关仓库名的部分也是如此
 
 还有一件事：
 
@@ -1102,7 +1104,7 @@ git add .
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/example/blog.git         # 记得改
-git push -u origin main                                              # 若失败则把 -u 改为 -f
+git push -u origin main                                           # 若失败则把 -u 改为 -f
 ```
 
 4. 待显示100%进度后，刷新github界面，此时能看到正在运行的仓库，点击 Settings，点击 Pages，在 Branch栏选择 main，之后点击 Save
