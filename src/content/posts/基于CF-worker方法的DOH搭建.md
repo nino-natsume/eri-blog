@@ -5,7 +5,7 @@ pinned: false
 description: 基于CF worker方法的 DOH 搭建
 tags: [Markdown, Cloudflare, DOH]
 category: 教程
-image: https://img.107211.xyz/file/img/IM3AoQ2w.webp
+image: ./images/4.png
 ---
 ### 调戏雑鱼
 雑鱼~♡既然打开这边了那就说明你没有境外银行卡或 PayPal 账户导致无法开通 Zero Trust，或者开通了不会操作吧~ 雑鱼~♡这么简单的操作，而且有这么详细的图解还操作不出，不愧是雑鱼呢~

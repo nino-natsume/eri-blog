@@ -5,7 +5,7 @@ description: Hugo 建站全流程
 pinned: true
 tags: [Markdown, Hugo]
 category: 教程
-image: https://img.107211.xyz/file/img/bfLIpviS.webp
+image: ./hugo.png
 ---
 
 # 再前言

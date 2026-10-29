@@ -5,7 +5,7 @@ pinned: false
 description: 什么叫之前的 Pixiv反代代码出现525错误？看我绘里酱编写出一个新代码，按最新的方案进行反代！
 tags: [Markdown, Pixiv]
 category: 教程
-image: https://img.107211.xyz/file/img/9KHOc1zw.webp
+image: ./images/pximg.png
 ---
 ## 前言
 什么叫之前的 Pixiv反代代码出现525错误？看我绘里酱编写出一个新代码，按最新的方案进行反代！

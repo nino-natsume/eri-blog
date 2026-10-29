@@ -6,7 +6,7 @@
 
 来自于世界第一可爱的绘里酱！
 
-::github{repo="Nino-Natsume/nino-natsume-github.io"}
+::github{repo="Nino-Natsume/eri"}
 
 
 ---

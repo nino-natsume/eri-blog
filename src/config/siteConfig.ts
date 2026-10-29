@@ -112,7 +112,7 @@ export const siteConfig: SiteConfig = {
 			type: "image",
 			value: "assets/images/logo/firefly-light.png",
 			valueDark: "assets/images/logo/firefly-dark.png",
-			alt: "https://img.107211.xyz/file/img/1789287178109_X__1_.webp",
+			alt: "https://images.cnblogs.com/cnblogs_com/blogs/860892/galleries/2505127/o_260509065738_miku%20%EF%BC%881%EF%BC%89.jpg",
 		},
 		// 导航栏标题
 		title: "次元星域 Blog",

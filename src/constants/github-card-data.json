@@ -1,1 +1,8 @@
-{}
+{
+	"nino-natsume/eri": {
+		"description": "绘里酱（Eri）人格设定",
+		"language": "JavaScript",
+		"avatarUrl": "https://avatars.githubusercontent.com/u/114901853?v=4",
+		"license": "AGPL-3.0"
+	}
+}
